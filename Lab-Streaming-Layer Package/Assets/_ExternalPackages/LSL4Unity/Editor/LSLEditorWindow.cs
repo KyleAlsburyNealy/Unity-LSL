@@ -86,7 +86,6 @@ namespace Assets.LSL4Unity.EditorExtensions
 
 
                 EditorGUILayout.EndHorizontal();
-
             }
             EditorGUILayout.EndScrollView();
             EditorGUILayout.EndVertical();
